@@ -45,7 +45,7 @@ namespace שאלון_מתמטיקה_הגשת_ציון
             }
             else wrong.Visibility = Visibility.Visible;
             count++;
-            if (count == 7)
+            if (count == 10)
                 Grade();
 
             check.Visibility = Visibility.Collapsed;
